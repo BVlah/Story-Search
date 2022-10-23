@@ -4,6 +4,8 @@
 ## Description
 A refactor of a Google Books API search engine originally built with RESTful APIs, into a GraphQL API built with React and Apollo Server.
 
+<img width="1791" alt="Screen Shot 2022-10-23 at 2 37 20 AM" src="https://user-images.githubusercontent.com/78816141/197377895-7257e768-31ba-43ab-815e-2a268a3938cd.png">
+
 ## Table of Contents
 [Installation Instructions](#installation-instructions)    
 
